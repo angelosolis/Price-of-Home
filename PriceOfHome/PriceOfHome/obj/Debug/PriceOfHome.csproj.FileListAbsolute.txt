@@ -1,0 +1,8 @@
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\bin\Debug\PriceOfHome.exe.config
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\bin\Debug\PriceOfHome.exe
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\bin\Debug\PriceOfHome.pdb
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\obj\Debug\PriceOfHome.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\obj\Debug\PriceOfHome.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\obj\Debug\PriceOfHome.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\obj\Debug\PriceOfHome.exe
+C:\Users\solis\source\repos\PriceOfHome\PriceOfHome\obj\Debug\PriceOfHome.pdb
